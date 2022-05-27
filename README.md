@@ -2,7 +2,7 @@
 
 ### How to clone this repository
 
-`git clone https://github.com/pietergreyling/couchbase-docker-compose.git`
+`git clone https://github.com/couchbaselabs/couchbase-docker-compose.git`
 
 ### Prerequisites: Install [Docker Desktop](https://docs.docker.com/desktop/) for your OS
 
