@@ -34,7 +34,7 @@ services:
     hostname: sync-gateway
     container_name: sync-gateway
     depends_on:
-      - couchbase
+      - couchbase-server
     working_dir: /docker-syncgateway
     stdin_open: true
     tty: true      
